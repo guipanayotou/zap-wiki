@@ -47,8 +47,7 @@ const CATS = {
   SUP: "Suporte",
 };
 
-const SUPPORT_URL = "https://
-/555496809311";
+const SUPPORT_URL = "https://wa.me/555496809311";
 const SUPPORT_EMAIL = "mailto:atendimento@zappost.app";
 
 // ---------------------- Componentes básicos ----------------------
